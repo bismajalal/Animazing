@@ -4,7 +4,7 @@ Animazing is an extension of the Colab Notebook implemented by Chervonij [1]. It
 
 The anvil app can be accessed here: https://anvil.works/build#clone:UZNAAWUAFEUHU7GT=JV74POR6A3SDRIQVZ3KLTO23
 
-The Google Colab can be accessed here: https://colab.research.google.com/drive/1uU6sTAx4pbcSLWxe4uyYVg0GYms6liUR?usp=sharing
+The Google Colab can be accessed here: https://colab.research.google.com/drive/1N1eQecjes-8U6FPDHs1ICjmiYDpE7D-u?usp=sharing
 
 
 
@@ -13,23 +13,9 @@ To run the anvil applcation:
 1. Open the settings from side bar and click 'Uplink'.
 2. Enable the server uplink and copy the uplink key.
 3. Paste this key in the Anvil Key module of the Colab Notebook.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+4. Execute all of the code segments of the Colab one by one.
+5. The last code waits forever for user commads from anvil frontend. As long as this code is executing, the anvil app will stay live.
+6. Now run and publish the anvil app. The link can be accessed by anyone over the internet.
 
 Refereces
 
